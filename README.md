@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://portfolio-muhu-muza.vercel.app/)
 <h1 align="center">Hi 👋🏽, I'm Muhumuza Ivan</h1>
 <h3 align="center">A Full-Stack Web Developer and Lifelong Learner</h3>        
-<img align="right" alt="Coding" width="600" src="https://gifdb.com/images/file/animated-man-computer-coding-nae6mec378lsg1i3.gif">   
+<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/file/animated-man-computer-coding-nae6mec378lsg1i3.gif">   
    
 
 - 💬 Ask me about **Flask, Django, React, Next, Tailwind**
