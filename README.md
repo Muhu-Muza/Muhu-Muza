@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="500" src="https://drive.google.com/uc?id=1tR5564b02OoCiLBeGWA4m64hP-oxbzpr">   
    
 
-- 💬 Ask me about **Flask, Django, React, Next, Tailwind**
+- 💬 Ask me about **Flask, Django, React, Next, Tailwind, Bootstrap, SCSS, NodeJS, Express**
 
 - 📫 How to reach me **schumannivan@gmail.com**
 
